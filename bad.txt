@@ -1,1 +1,1 @@
-先提交文件在关联远程库
+先提交文件在关联远程库  需要执行 git pull mh1 master  --allow-unrelated-histories 先把远程仓库的代码拉下来并合并本地仓库
