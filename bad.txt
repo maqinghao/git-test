@@ -16,3 +16,23 @@ push命令的格式：git push origin master
 原文链接：https://blog.csdn.net/qq_33361432/article/details/79919040
 
 git pull origin master 拉取合并远程与本地库
+
+ 撤消对文件的修改
+如果你并不想保留对 CONTRIBUTING.md 文件的修改怎么办？ 你该如何方便地撤消修改——将它还原成上次提交时的样子（或者刚克隆完的样子，或者刚把它放入工作目录时的样子）？ 幸运的是，git status 也告诉了你应该如何做。 在最后一个例子中，未暂存区域是这样：
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+    modified:   CONTRIBUTING.md
+它非常清楚地告诉了你如何撤消之前所做的修改。 让我们来按照提示执行：
+
+$ git checkout -- CONTRIBUTING.md
+$ git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+    renamed:    README.md -> README
+可以看到那些修改已经被撤消了。
+
