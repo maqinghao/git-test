@@ -1,1 +1,18 @@
-先提交文件在关联远程库  需要执行 git pull mh1 master  --allow-unrelated-histories 先把远程仓库的代码拉下来并合并本地仓库
+先提交文件在关联远程库  需要执行 git pull mh1 master  --allow-unrelated-histories 先把远程仓库的代码拉下来并合并本地仓库 （允许无关历史记录
+
+）
+git push -u origin master   u代表什么意思？
+关于push： 
+（1）将本地仓库与要push的远程仓库关联； 
+（2）把本地仓库的内容push推送到GitHub远程仓库。
+
+关联远程库命令的格式：git remote add origin git@github.com:仓库地址.git 
+说明：origin是git默认的远程库叫法，因为我之前已经用过origin这个名字关联其他的远程库了，所以这里的示例我用的是origin0，下面的push操作也相应的是origin0。
+
+push命令的格式：git push origin master 
+注意：如果你是第一次推送master分支，并且想把本地的master分支和远程的master分支真正地关联起来，建立一个它们之间的连接，可以加上-u参数：git push -u origin master，这样Git不但会把本地的master分支内容推送的远程新的master分支，还会把本地的master分支和远程的master分支关联起来，在以后的推送或者拉取时就可以简化命令，commit提交后，直接执行push命令：git push origin master就OK，无须再次关联远程库
+————————————————
+版权声明：本文为CSDN博主「邓小菜」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/qq_33361432/article/details/79919040
+
+git pull origin master 拉取合并远程与本地库
