@@ -2,7 +2,7 @@
 
 ）
 git push -u origin master   u代表什么意思？
-关于push： 及
+关于push：
 （1）将本地仓库与要push的远程仓库关联；
 （2）把本地仓库的内容push推送到GitHub远程仓库。
 
