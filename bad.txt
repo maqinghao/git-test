@@ -40,5 +40,10 @@ Changes to be committed:
 
 GitHub Token: 0f0c46cc5272883ad9c7e4fafe8cdb3c4eb72276
 GitHub Gist: 513362c8a04e647fd93e9114f160ae4a
+             513362c8a04e647fd93e9114f160ae4a
+
+GitHub Token: 2b4ea76d3a346aecaabea7359c5c3b12ab8b41f7
+GitHub Gist: 50576a4dd997bb2453bdfaa2cc29c3f6
+GitHub Gist Type: Secret
 GitHub Gist Type: Secret
 为什么呀？
