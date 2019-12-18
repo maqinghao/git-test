@@ -2,7 +2,7 @@
 
 ）
 git push -u origin master   u代表什么意思？
-关于push:
+关于push：好
 （1）将本地仓库与要push的远程仓库关联；
 （2）把本地仓库的内容push推送到GitHub远程仓库。
 
@@ -37,3 +37,7 @@ Changes to be committed:
 可以看到那些修改已经被撤消了。
 
 增加u参数第一次提交
+
+GitHub Token: 0f0c46cc5272883ad9c7e4fafe8cdb3c4eb72276
+GitHub Gist: 513362c8a04e647fd93e9114f160ae4a
+GitHub Gist Type: Secret
