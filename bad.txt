@@ -48,3 +48,9 @@ GitHub Gist Type: Secret
 GitHub Gist Type: Secret
 为什么呀？
 win3----token---b37ae5e6c95352f886fb8c9ef8a022e70b89e40f
+原来是这样的
+win3 -- token --2b1078251b3948267e7f46d7befd2d7dfea4b01d
+<script src="https://gist.github.com/maqinghao/5ebf8aee0247e64b7148f0ec7a0393b5.js"></script>
+win4
+GitHub Token: d0b5347c10e5f804a5a607f42a9dd99d06150f69
+GitHub Gist: 2db725746c73b21725af9ad8aff5d77e
