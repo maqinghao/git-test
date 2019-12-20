@@ -54,4 +54,9 @@ win3 -- token --2b1078251b3948267e7f46d7befd2d7dfea4b01d
 win4
 GitHub Token: d0b5347c10e5f804a5a607f42a9dd99d06150f69
 GitHub Gist: 2db725746c73b21725af9ad8aff5d77e
+win4
+GitHub Token: 74f3e5abed884684c31a61efac99c6f6bcae81a0
+GitHub Gist: a9176a5fa19f6673b6f61216dc45e4de
+GitHub Gist Type: Secret
+<script src="https://gist.github.com/maqinghao/a9176a5fa19f6673b6f61216dc45e4de.js"></script>
 
