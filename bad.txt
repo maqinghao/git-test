@@ -37,26 +37,7 @@ Changes to be committed:
 可以看到那些修改已经被撤消了。
 
 增加u参数第一次提交
-
-GitHub Token: 0f0c46cc5272883ad9c7e4fafe8cdb3c4eb72276
-GitHub Gist: 513362c8a04e647fd93e9114f160ae4a
-             513362c8a04e647fd93e9114f160ae4a
-
-GitHub Token: 2b4ea76d3a346aecaabea7359c5c3b12ab8b41f7
-GitHub Gist: 50576a4dd997bb2453bdfaa2cc29c3f6
+GitHub Token: fd007023afc91ca801c8374b85fcba19cd4f3cde
+GitHub Gist: 29ca99ee29112d3bf45080384c898419
 GitHub Gist Type: Secret
-GitHub Gist Type: Secret
-为什么呀？
-win3----token---b37ae5e6c95352f886fb8c9ef8a022e70b89e40f
-原来是这样的
-win3 -- token --2b1078251b3948267e7f46d7befd2d7dfea4b01d
-<script src="https://gist.github.com/maqinghao/5ebf8aee0247e64b7148f0ec7a0393b5.js"></script>
-win4
-GitHub Token: d0b5347c10e5f804a5a607f42a9dd99d06150f69
-GitHub Gist: 2db725746c73b21725af9ad8aff5d77e
-win4
-GitHub Token: 74f3e5abed884684c31a61efac99c6f6bcae81a0
-GitHub Gist: a9176a5fa19f6673b6f61216dc45e4de
-GitHub Gist Type: Secret
-<script src="https://gist.github.com/maqinghao/a9176a5fa19f6673b6f61216dc45e4de.js"></script>
 
