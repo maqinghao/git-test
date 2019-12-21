@@ -2,7 +2,7 @@
 
 ）
 git push -u origin master   u代表什么意思？
-关于push:
+关于push：好
 （1）将本地仓库与要push的远程仓库关联；
 （2）把本地仓库的内容push推送到GitHub远程仓库。
 
@@ -41,3 +41,4 @@ Changes to be committed:
 git reset HEAD <file>...、
 $ git reset --hard e8a23b498ab（提交的id）
 要重返未来，用git reflog查看命令历史，以便确定要回到未来的哪个版本
+
