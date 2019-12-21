@@ -36,4 +36,8 @@ Changes to be committed:
     renamed:    README.md -> README
 可以看到那些修改已经被撤消了。
 
-增加u参数第一次提交
+增加u参数第一次提交、
+回退到指定的提交版本
+git reset HEAD <file>...、
+$ git reset --hard e8a23b498ab（提交的id）
+要重返未来，用git reflog查看命令历史，以便确定要回到未来的哪个版本
